@@ -15,7 +15,9 @@ git checkout ...
 		file.ext
 		817982af9381b1c... (version number)
 		master		   (go back to master)
+		branch-name	   (switch to a branch latest)
+		-b branch-name	   (create a new branch)
 git log
 	-n number (only the last number of verions prinetd)
-
+git branch		(list all branches)
 
