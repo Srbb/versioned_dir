@@ -25,3 +25,4 @@ git log
 	-n number (only the last number of verions prinetd)
 git branch			(list all branches)
 	   -d branch-name	(delete the branch branch-name)
+git push
