@@ -8,4 +8,6 @@ git add ...
 	file.ext
 	/star/
 	etc
+git commit ...
+	   -a	, for all
 
