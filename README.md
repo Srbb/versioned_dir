@@ -1,0 +1,11 @@
+
+i need to look for jobs asap.
+
+
+git init
+git status
+git add ...
+	file.ext
+	/star/
+	etc
+
